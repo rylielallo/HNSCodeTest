@@ -5,3 +5,4 @@ making a change to this file.
 
 I'm making this change on the master branch.
 
+I'm making another change on the master branch.
